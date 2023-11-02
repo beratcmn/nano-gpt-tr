@@ -18,4 +18,4 @@ Model also performs very badly 😂
 - step 3500: train loss 0.2284, val loss 2.1829
 - step 4000: train loss 0.1675, val loss 2.3626
 - step 4500: train loss 0.1390, val loss 2.4900
-- step 4999: train loss 0.1192, val loss 2.6184
+- step 4999: train loss 0.1192, val loss 2.6184 
